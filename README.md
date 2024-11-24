@@ -15,16 +15,16 @@
   - [iTerm2](https://iterm2.com/)
   - Plugins
     - [brew](https://brew.sh/zh-tw/)
-    - [ctop]
-    - [btop]
-    - [Eza]
-    - [ghq]
-    - [fzf]
-    - [Ripgrep]
+    - ctop
+    - btop
+    - Eza
+    - ghq
+    - fzf
+    - Ripgrep
     - [oh my zsh](https://ohmyz.sh/)
     - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
-    - [zsh-autosuggestions]
-    - [zsh-syntax-highlighting]
+    - zsh-autosuggestions
+    - zsh-syntax-highlighting
 
 - Windows
   - [MobaXterm](https://mobaxterm.mobatek.net/)
